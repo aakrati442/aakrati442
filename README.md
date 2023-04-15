@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJS, AngularJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://aakrati442.github.io/portfolio/](https://aakrati442.github.io/portfolio/)
+- 👨‍💻 All of my certifications are available at [https://www.linkedin.com/in/aakrati-gupta-012702215/](https://www.linkedin.com/in/aakrati-gupta-012702215/)
 
 - 📝 I regularly write articles on [https://www.yourquote.in/](https://www.yourquote.in/)
 
