@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there! 👋, I'm AAKRATI GUPTA</h1>
-<h3 align="center">A passionate developer interested in working on new projects</h3>
+<h3 align="center">a passionate developer interested in working on new projects</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
