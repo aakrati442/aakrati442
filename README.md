@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hey there👋, I'm AAKRATI GUPTA</h1>
 <h3 align="center">a passionate developer interested in working on new projects</h3>
 
