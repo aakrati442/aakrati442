@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/agaakratigupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agaakratigupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/a_201500001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_201500001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/agaakratigupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agaakratigupta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/agaakratpwwb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agaakratpwwb" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/agaakratpwwb/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agaakratpwwb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
