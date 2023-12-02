@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Travel Booking Website](https://github.com/aakrati442/TravelWebsite)
 
-- 🌱 I’m currently learning **ReactJS, MongoDB**
+- 🌱 I’m currently learning **C# and .Net**
 
 - 👨‍💻 All of my certifications are available at [https://www.linkedin.com/in/aakrati-gupta-012702215/](https://www.linkedin.com/in/aakrati-gupta-012702215/)
 
