@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [Fieldassist](https://github.com/FieldAssist)
 
-- 🌱 I’m currently learning **C# and .Net**
+- 🌱 I’m currently diving into **C#, .NET, Azure DevOps and honing my skills in MVC Core development**
 
 - 👨‍💻 All of my certifications are available at [https://www.linkedin.com/in/aakrati-gupta-012702215/](https://www.linkedin.com/in/aakrati-gupta-012702215/)
 
 - 📝 I regularly write articles on [https://www.yourquote.in/](https://www.yourquote.in/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Java, C**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Java, C, C#, .NET, Azure devOps**
 
 - 📫 How to reach me **agaakratigupta@gmail.com**
 
